@@ -13,4 +13,4 @@ cd Python_InfoSec_Projects
 python -m pip install -r requirements.txt
 ```
 
-More tools currently in development comming soon 
+More tools currently in development comming soon.Happy learning...😎💯
