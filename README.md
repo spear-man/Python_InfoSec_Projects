@@ -12,3 +12,5 @@ cd Python_InfoSec_Projects
 # Install requirements
 python -m pip install -r requirements.txt
 ```
+
+More tools currently in development comming soon 
